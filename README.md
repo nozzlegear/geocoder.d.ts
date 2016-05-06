@@ -1,6 +1,6 @@
-# is-valid-zipcode.d.ts
+# geocoder.d.ts
 
-An ambient Typescript/Typings definition for [https://www.npmjs.com/package/geocoder](geocoder).
+An ambient Typescript/Typings definition for [geocoder](https://www.npmjs.com/package/geocoder).
 
 ### Installation
 
